@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+cleaned_posts.csv
+cleaned_posts.csv.tmp
